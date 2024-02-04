@@ -1,0 +1,65 @@
+{
+    "flights": [
+      {
+        "flight_number": "TK567",
+        "airline": "Turkish Airlines",
+        "departure_airport": "IST",
+        "departure_city": "Istanbul",
+        "arrival_airport": "LHR",
+        "arrival_city": "London",
+        "departure_time": "2024-02-11T10:00:00",
+        "arrival_time": "2024-02-11T12:30:00",
+        "duration": "3h 30m",
+        "price": 320
+      },
+      {
+        "flight_number": "LH678",
+        "airline": "Lufthansa",
+        "departure_airport": "FRA",
+        "departure_city": "Frankfurt",
+        "arrival_airport": "AMS",
+        "arrival_city": "Amsterdam",
+        "departure_time": "2024-02-11T12:30:00",
+        "arrival_time": "2024-02-11T14:15:00",
+        "duration": "1h 45m",
+        "price": 180
+      },
+      {
+        "flight_number": "BA890",
+        "airline": "British Airways",
+        "departure_airport": "LHR",
+        "departure_city": "London",
+        "arrival_airport": "JFK",
+        "arrival_city": "New York",
+        "departure_time": "2024-02-11T14:00:00",
+        "arrival_time": "2024-02-11T17:20:00",
+        "duration": "7h 20m",
+        "price": 550
+      },
+      {
+        "flight_number": "AF345",
+        "airline": "Air France",
+        "departure_airport": "CDG",
+        "departure_city": "Paris",
+        "arrival_airport": "DXB",
+        "arrival_city": "Dubai",
+        "departure_time": "2024-02-11T16:45:00",
+        "arrival_time": "2024-02-11T23:15:00",
+        "duration": "6h 30m",
+        "price": 480
+      },
+      {
+        "flight_number": "TK678",
+        "airline": "Turkish Airlines",
+        "departure_airport": "IST",
+        "departure_city": "Istanbul",
+        "arrival_airport": "SIN",
+        "arrival_city": "Singapore",
+        "departure_time": "2024-02-12T08:30:00",
+        "arrival_time": "2024-02-12T16:45:00",
+        "duration": "10h 15m",
+        "price": 620
+      }
+    ]
+  }
+  
